@@ -1,4 +1,4 @@
-// arquivo :    digraph.c
+// arquivo :    dfs.c
 // descricao :  apenas para fins de aprendizado implementacao de um grafo direcionado por listas de adjacencia para implementacao de algoritmos basicos
 // implementacao similar ao de CRLS (computa floresta)
 // autor :      Augusto Guerra de Lima - augustoguerra@dcc.ufmg.br
